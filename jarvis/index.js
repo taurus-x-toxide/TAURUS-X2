@@ -1,1 +1,1 @@
-exports.akshay = require('./akshay')
+exports.taurus = require('./taurus')
