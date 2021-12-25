@@ -2,10 +2,8 @@
 
   # TAURUS X2
 
-<a href="https://taurus0.yolasite.com">`TAURUS NORMAL BOT`</a>
-    <br>
 
-<a href="https://github.com/muhammed-usrbot">`𝚃𝙷𝙸𝚂 𝚁𝙴𝙿𝙾 𝙸𝚂 𝙽𝙾𝚃 𝚆𝙾𝚁𝙺𝙸𝙽𝙶 𝚈𝙴𝚃`</a>
+<a href="https://taurus0.yolasite.com">`𝚃𝙷𝙸𝚂 𝚁𝙴𝙿𝙾 𝙸𝚂 𝙽𝙾𝚃 𝚆𝙾𝚁𝙺𝙸𝙽𝙶 𝚈𝙴𝚃`</a>
     <br>
 
 <p align="center">
