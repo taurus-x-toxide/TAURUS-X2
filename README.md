@@ -1,21 +1,33 @@
-# JARVIS V3
+<div align="center">
+
+  # TAURUS X2
+
+<a href="https://taurus0.yolasite.com">`TAURUS NORMAL BOT`</a>
+    <br>
+
+<a href="https://github.com/muhammed-usrbot">`𝚃𝙷𝙸𝚂 𝚁𝙴𝙿𝙾 𝙸𝚂 𝙽𝙾𝚃 𝚆𝙾𝚁𝙺𝙸𝙽𝙶 𝚈𝙴𝚃`</a>
+    <br>
+
 <p align="center">
-<a href="#"><img title="SPARROW OFC" src="https://img.shields.io/badge/SPARROW-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="https://t.me/taurus_sir"><img title="TAURUS" src="https://c.tenor.com/bVm05NUoyF0AAAAC/bokuno-hero-academia-izuku.gif" width=280px length=170px></a>
+
+<p align="center">
+<a href="#"><img title="TAURUS" src="https://img.shields.io/badge/TAURUS-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/Sparrow"><img title="Author" src="https://img.shields.io/badge/AUTHOR-AKSHAY-orange.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/muhammed-usrbot"><img title="Author" src="https://img.shields.io/badge/MUHAMMED-black.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/sparroo/jarvis/followers"><img title="Followers" src="https://img.shields.io/github/followers/sparroo?color=blue&style=flat-square"></a>
-<a href="https://github.com/sparroo/jarvis/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/sparroo/jarvisv3?color=red&style=flat-square"></a>
-<a href="https://github.com/sparroo/jarvis/network/members"><img title="Forks" src="https://img.shields.io/github/forks/sparroo/jarvisv3?color=red&style=flat-square"></a>
-<a href="https://github.com/sparroo/jarvis/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/sparroo/jarvisv3?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/sparroo/jarvisv3&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/muhammed-usrbot/TAURUS-X2/followers"><img title="Followers" src="https://img.shields.io/github/followers/muhammed-usrbot?color=blue&style=flat-square"></a>
+<a href="https://github.com/muhammed-usrbot/TAURUS-X2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/muhammed-usrbot/TAURUS-X2?color=red&style=flat-square"></a>
+<a href="https://github.com/muhammed-usrbot/TAURUS-X2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/muhammed-usrbot/TAURUS-X2?color=red&style=flat-square"></a>
+<a href="https://github.com/muhammed-usrbot/TAURUS-X2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/muhammed-usrbot/TAURUS-X2?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/muhammed-usrbot/TAURUS-X2&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
 </p>
 </details>
 
-## THANKS TO SPARROW
-
+## THANKS TO MUHAMMED
+1
 # CLONE THIS PROJECT  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="29px">
 
 ### Via [`Termux `](https://f-droid.org/packages/com.termux/)
@@ -25,8 +37,8 @@
 > apt update && apt upgrade
 > pkg install git
 > pkg install bash
-> git clone https://github.com/sparroo/jarvisv3
-> cd jarvis
+> git clone https://github.com/muhammed-usrbot/TAURUS-X2
+> cd TAURUS-X2
 > bash install.sh
 > npm start
 > SCAN THE QR CODE
@@ -50,12 +62,12 @@
 
 # CONTACT ME <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
 
-* [`WhatsApp Number `](https://wa.me/+919947291867)
+* [`WhatsApp Number `](https://wa.me/+918157849715)
 * [`WhatsApp Group `](https://chat.whatsapp.com/GGWFogD7JtD2BZZREqHmYd)
 
 
 # THANKS TO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
 
-* [`SPARROW`]
+* [`TAURUS-X2`]
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
 
