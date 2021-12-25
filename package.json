@@ -1,7 +1,7 @@
 {
-  "name": "Jarvis",
+  "name": "TAURUS-X2",
   "version": "1.0.0",
-  "description": "AKSHAY",
+  "description": "MUHAMMED",
   "main": "main.js",
   "directories": {
     "lib": "lib"
@@ -56,15 +56,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sparroo"
+    "url": "git+https://github.com/muhammed-usrbot"
   },
   "keywords": [
     "jarvis"
   ],
-  "author": "AKSHAY",
+  "author": "MUHAMMED",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sparroo"
+    "url": "https://github.com/muhammed-usrbot"
   },
-  "homepage": "https://github.com/sparroo"
+  "homepage": "https://github.com/muhammed-usrbot"
 }
